@@ -69,3 +69,11 @@ To create a checkbox
 
 - [x] task #1
 - [ ] task #2
+
+## Tables
+
+| s/n | Name | Favorite food | 
+| :---- | :---- | :---- |
+| 1 | Favour | Pap |
+| 2 | Success | Noodles |
+| 3 | Happiness | Pasta |
